@@ -211,6 +211,8 @@ By analyzing orders, customers, restaurants, cities, and menu items, the dashboa
 ## 👩‍💻 Author
 
 **Isha Choudhari**
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/isha-choudhari-01a882293/)
+- **Email**: ishachoudhari6@gmail.com
 
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
